@@ -11,6 +11,13 @@ Here is the complete physical hardware setup for testing different moisture leve
 
 ---
 
+## 📺 Project Video Demo
+Aap hamare project ka working video yahan dekh sakte hain:
+
+https://github.com/Sauhard-Git/Smart-Irrigation-System/blob/main/smartirrigationvideo.mp4
+
+---
+
 ## 🚀 Key Features
 - **Real-time Monitoring:** Continuously tracks soil moisture content using an analog sensor.
 - **Three-Stage Logic:** Accurately differentiates between **Low**, **Mid**, and **High** moisture zones.
