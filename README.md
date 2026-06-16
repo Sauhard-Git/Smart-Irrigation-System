@@ -51,11 +51,5 @@ The system reads analog values from the soil moisture sensor and processes them 
 
 ---
 
-## 📂 Project Structure
-```text
-Smart-Irrigation-System/
-├── src/
-│   └── smart_irrigation.ino   # Main Arduino Source Code
-├── images/
-│   └── image_f8546e.jpg       # Project Setup Image
-└── README.md                  # Project Documentation
+## Author
+**Sauhard Agnihotri**
