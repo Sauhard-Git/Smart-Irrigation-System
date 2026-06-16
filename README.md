@@ -7,7 +7,7 @@ An automated soil moisture monitoring and plant watering system designed to prev
 ## 📸 Project Setup
 Here is the complete physical hardware setup for testing different moisture levels:
 
-![Project Setup](images/image_f8546e.jpg)
+![Project Setup](smart-irrigation.jpeg)
 
 ---
 
